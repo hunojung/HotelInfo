@@ -5,7 +5,7 @@ playdata 16기 1차 팀 프로젝트 백엔드 소스코드 입니다.
 야놀자, 여기어때와 같은 호텔 정보 조회 서비스를 구현하였습니다.
 
 ## 사용 기술
-- Spring Boot 2.5.7
+- Spring Boot 2.6
 - JAVA 8.0
 - JPA 3
 - Oracle DB 10g
